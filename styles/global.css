@@ -17,11 +17,11 @@
     --bg-color: #09090b;
     --surface-color: #18181B;
     --stroke-color: #27272A;
-    --text-color-primary: #A1A1AA;
-    --text-color-secondary: #F4F4F5;
+    --text-color-primary: #F4F4F5;
+    --text-color-secondary: #A1A1AA;
 
     --brand-color-primary: #F7B733;
-    --brand-color-secondary: #F7B733;
+    --brand-color-secondary: #FC4A1A;
     
     --ff-sans: 'inter', system-ui, sans-serif;
 
