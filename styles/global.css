@@ -50,6 +50,8 @@ html {
     color: var(--text-color-primary);
 
     overflow-x: hidden; /* sem rolagem horizontal*/
+
+    scroll-behavior: smooth; /*para rolagem suave*/
 }
 
 body {
