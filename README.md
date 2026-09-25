@@ -20,7 +20,3 @@ https://maathxx.github.io/Zingen/
 Desenvolvido por **[Matheus Oliveira](https://github.com/maathxx)**.
 
 ![Preview do projeto](./assets/preview.png)
-![Preview do projeto](./assets/preview2.png)
-![Preview do projeto](./assets/preview3.png)
-![Preview do projeto](./assets/preview4.png)
-![Preview do projeto](./assets/preview5.png)
