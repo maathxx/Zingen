@@ -18,3 +18,5 @@ https://maathxx.github.io/Zingen/
 ## 👨🏽‍💻 Autor
 
 Desenvolvido por **[Matheus Oliveira](https://github.com/maathxx)**.
+
+https://github.com/maathxx/Zingen/issues/1#issue-5583020064
