@@ -19,4 +19,4 @@ https://maathxx.github.io/Zingen/
 
 Desenvolvido por **[Matheus Oliveira](https://github.com/maathxx)**.
 
-https://github.com/maathxx/Zingen/issues/1#issue-5583020064
+ ![Preview do projeto](./assets/preview.png)
